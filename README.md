@@ -1,3 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your MedNav project
 
-TODO: Document your project here
+This project UI blow your mind
+
